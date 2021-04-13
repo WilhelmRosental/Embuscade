@@ -1,0 +1,4 @@
+enable-plugin: true
+
+#map du lobby
+world-lobby: 'world'

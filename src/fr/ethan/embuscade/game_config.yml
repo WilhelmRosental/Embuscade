@@ -1,0 +1,14 @@
+#point de spawn de la partie
+spawn-position:
+
+#durée prédéfinie de la partie
+time: 0
+
+#limites des bordures de la partie
+limits: 0
+
+#centre des limites
+limits-center: 0
+
+#coffres de bonus
+luckychests:

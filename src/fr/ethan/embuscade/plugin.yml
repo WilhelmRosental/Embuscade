@@ -1,0 +1,8 @@
+name: Embuscade
+main: fr.ethan.embuscade.Mains.Embuscade
+version: 0.1
+api-version: 1.16
+
+commands:
+  em:
+    description: Gère toutes les commandes
